@@ -1,0 +1,12 @@
+timestamp,input_type,preview,risk_score,risk_level,category
+2026-08-25 11:50:39,Message,"Congratulations! You have won ₹50,000. Claim your prize immediately by clicking ...",50,MEDIUM,Lottery/Prize Scam
+2026-08-25 11:50:59,Message,"Congratulations! You have won ₹50,000. Claim your prize immediately by clicking ...",50,MEDIUM,Lottery/Prize Scam
+2026-08-25 11:51:19,Message,"Congratulations! You have won ₹50,000. Claim your prize immediately by clicking ...",50,MEDIUM,Lottery/Prize Scam
+2026-08-25 12:13:29,Message,Congratulations! You have been selected for a work-from-home job. Pay ₹999 regis...,50,HIGH,Job Scam
+2026-08-25 12:13:42,Message,Your order has been shipped and will arrive tomorrow. Track your order from the ...,0,SAFE,Safe
+2026-08-25 12:13:54,Message,Your bank account will be blocked within 30 minutes. Verify your KYC immediately...,60,CRITICAL,Account/KYC Scam
+2026-08-25 12:14:58,Message,Your bank account will be blocked within 30 minutes. Verify your KYC immediately...,60,CRITICAL,Account/KYC Scam
+2026-08-25 12:24:05,Message,Congratulations! You have been selected for a work-from-home job. Pay ₹999 regis...,50,HIGH,Job Scam
+2026-08-25 12:24:39,Message,Your order has been shipped and will arrive tomorrow. Track your order from the ...,0,SAFE,Safe
+2026-08-25 12:25:28,Message,"Congratulations! You have won ₹50,000. Claim your prize immediately by clicking ...",50,HIGH,Lottery/Prize Scam
+2026-08-25 14:23:31,Message,"Congratulations! You have won ₹50,000. Claim your prize immediately by clicking ...",50,HIGH,Lottery/Prize Scam

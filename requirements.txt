@@ -1,0 +1,13 @@
+streamlit
+scikit-learn
+joblib
+opencv-python-headless
+pyzbar
+tldextract
+openai
+pandas
+plotly
+pillow
+numpy
+
+
